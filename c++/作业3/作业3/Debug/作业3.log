@@ -1,0 +1,24 @@
+﻿生成启动时间为 2015/3/16 21:29:12。
+     1>项目“F:\c++\作业3\作业3\作业3.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\作业3.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Debug\作业3.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         f:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp Student.cpp
+         Student.cpp
+     1>f:\c++\作业3\作业3\student.h(7): error C2146: 语法错误: 缺少“;”(在标识符“name”的前面)
+     1>f:\c++\作业3\作业3\student.h(7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>f:\c++\作业3\作业3\student.h(7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>f:\c++\作业3\作业3\student.cpp(12): error C2065: “name”: 未声明的标识符
+     1>f:\c++\作业3\作业3\student.cpp(17): error C2065: “name”: 未声明的标识符
+         main.cpp
+     1>f:\c++\作业3\作业3\student.h(7): error C2146: 语法错误: 缺少“;”(在标识符“name”的前面)
+     1>f:\c++\作业3\作业3\student.h(7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>f:\c++\作业3\作业3\student.h(7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         正在生成代码...
+     1>已完成生成项目“F:\c++\作业3\作业3\作业3.vcxproj”(rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.36

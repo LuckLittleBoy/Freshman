@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "女儿和儿子", "女儿和儿子\女儿和儿子.vcproj", "{E752D56E-E6ED-4C10-903F-7E7B34E28341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E752D56E-E6ED-4C10-903F-7E7B34E28341}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E752D56E-E6ED-4C10-903F-7E7B34E28341}.Debug|Win32.Build.0 = Debug|Win32
+		{E752D56E-E6ED-4C10-903F-7E7B34E28341}.Release|Win32.ActiveCfg = Release|Win32
+		{E752D56E-E6ED-4C10-903F-7E7B34E28341}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
